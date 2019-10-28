@@ -1,6 +1,6 @@
 # hello-world
 my first attempt at GIT
 
-i suck at coding, but i would like to make an attempt   
+its been a while, but i would like to make an attempt   
 
-why do i suck so bad at coding i do not know !!!
+why i do this i do not know !!!
